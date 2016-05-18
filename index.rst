@@ -1,9 +1,12 @@
-Client Documentation
---------------------
+Manjaro-NL Documentatie
+-----------------------
 
 .. toctree::
     :maxdepth: 2
 
+    Over_Manjaro
+    Gemeenschap
+    
     getting_started
     settings
     commands
