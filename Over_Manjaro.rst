@@ -5,7 +5,7 @@ Manjaro Versus ..
 -----------------
 
 Manjaro is een op Arch linux gebaseerde distributie, waardoor ook gebruik kan gemaakt
-worden van de geweldige '< aur: https://aur.archlinux.org/packages >
+worden van de geweldige '< aur: https://aur.archlinux.org/packages > '_
 
 Laten we benadrukken: **Manjaro is niet gelijk aan Arch!**  
 Manjaro is meer dan zomaar een vereenvoudigde Arch-beleving, er zijn duidelijke
