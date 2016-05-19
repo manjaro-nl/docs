@@ -5,20 +5,17 @@ Manjaro Versus ..
 -----------------
 
 Manjaro is een op Arch linux gebaseerde distributie, waardoor ook gebruik kan gemaakt
-worden van de geweldige  `aur <https://aur.archlinux.org/packages/>`_
+worden van de geweldige  `aur <https://aur.archlinux.org/packages/>`_  
 
 Laten we benadrukken: **Manjaro is niet gelijk aan Arch!**  
-Manjaro is meer dan zomaar een vereenvoudigde Arch-beleving, er zijn duidelijke
-verschillen:
-.
-* Manjaro wordt onafhankelijk ontwikkeld vanuit Arch met een compleet ander
-team.
-* Manjaro is toegankelijker voor beginners, terwijl Arch meer gericht is op de
-ervaren gebruiker.
-* Het voorzien van onafhankelijke servers voor software met zijn updates. Alsook het beschikbaar stellen van zijn eigen softwarepakketten.
-* Met distributiespecifieke hulpmiddelen zoals de Manjaro Hardware Detectie (MHWD) tool en de Manjaro Settings Manager (MSM).  
-* Een vriendelijke forumgemeenschap, waar zowel beginners als ervaren gebruikers
-hun ervaringen en/of problemen kunnen delen.
+Manjaro is meer dan zomaar een vereenvoudigde Arch-beleving, er zijn duidelijke verschillen:
+  
+* Manjaro wordt onafhankelijk ontwikkeld vanuit Arch met een compleet ander team.  
+* Manjaro is toegankelijker voor beginners, terwijl Arch meer gericht is op de ervaren gebruiker.  
+* Het voorzien van onafhankelijke servers voor software met zijn updates. Alsook het beschikbaar stellen van zijn eigen softwarepakketten.  
+* Met distributiespecifieke hulpmiddelen zoals de Manjaro Hardware Detectie (MHWD) tool en de Manjaro Settings Manager (MSM).    
+* Een vriendelijke forumgemeenschap, waar zowel beginners als ervaren gebruikers hun ervaringen en/of problemen kunnen delen.  
+
 
 Hoe werkt Manjaro?
 ------------------
