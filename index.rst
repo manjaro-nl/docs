@@ -6,13 +6,7 @@ Manjaro-NL Documentatie
 
     Over_Manjaro
     Gemeenschap
-    
-    getting_started
-    settings
-    commands
-    appearance
-    addons
-    tips
+        
 
 Contributor Documentation
 -------------------------
@@ -20,5 +14,4 @@ Contributor Documentation
 .. toctree::
     :maxdepth: 2
 
-    helping
-    developers
+    
